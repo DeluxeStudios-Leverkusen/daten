@@ -1,26 +1,40 @@
-Herrenschnitt,18
-Damenschnitt Waschen schneiden Kurz,25
-Damenschnitt Waschen schneiden Kurz,30
-Damenschnitt Waschen schneiden Lang,30
-Damen Waschen Föhnen,ab 25
+Herrenschnitt (Trocken),18
+Herrenschnitt (Waschen & Schneiden),27
+Damenschnitt Waschen Schneiden Kurz,25
+Damenschnitt Waschen Schneiden Mittel,30
+Damenschnitt Waschen Schneiden Lang,30
+Damen Waschen & Föhnen Kurz,25
+Damen Waschen & Föhnen Mittel,25
+Damen Waschen & Föhnen Lang,33
 Pony schneiden,5
-Folienstränen kurz,1,5 pro strähne
-Folienstränen mittel,2 pro strähne
-Folienstränen lang,2,5 pro strähne
-Ansatz Farbe bis 2cm,30
+Foliensträhnen kurz,1,50 pro Stück
+Foliensträhnen mittel,2 pro Stück
+Foliensträhnen lang,2,50 pro Stück
+Ansatz Farbe bis 2cm,29
 Neufärbung kurz,40
 Neufärbung mittel,50
 Neufärbung lang,60
 Tönung kurz,25
-mittel,35
-lang,40
-Dauerwelle kurz,55
-mittel,65
-lang,75
-Bart,12
-Färben,29
-Waschen & Föhnen,25
-Dauerwelle,50
+Tönung mittel,35
+Tönung lang,40
+Dauerwelle Damen kurz,55
+Dauerwelle Damen mittel,65
+Dauerwelle Damen lang,75
+Dauerwelle Herren (mit Schnitt),60
+Balayage,ab 120
+Haarkur normal,10
+Haarkur intensiv,15
 Augenbrauen zupfen,7
+Augenbrauen zupfen (Faden),8
 Wimpern färben,10
-Kinderschnitt,15
+Bartrasur (Nass),12
+Bartrasur (mit Haarschnitt),30
+Heißwachs Nasenlöcher,3
+Heißwachs Ohren,3
+Heißwachs Wangen + Nase,5
+Dampfpeeling Gesicht,25
+Deluxe Paket 1 (Haare+Bart+Augenbr.+Gesicht),38
+Deluxe Paket 2 (+ Dampfpeeling),50
+Extensions entfernen,1 pro Stück
+Extensions anbringen,2 pro Stück
+Kinderschnitt,20
