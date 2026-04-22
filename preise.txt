@@ -17,9 +17,6 @@ lang,40
 Dauerwelle kurz,55
 mittel,65
 lang,75
-
-
-
 Bart,12
 Färben,29
 Waschen & Föhnen,25
