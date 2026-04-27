@@ -1,2 +1,6 @@
-Ayhan,https://cal.eu/Ayhan
-Momo,https://cal.eu/Muhammet-Ali
+Ayhan,https://cal.eu/ayhan.lev
+Momo,https://cal.eu/momo.deluxe
+Okan,https://cal.eu/okan.c
+Tomi,https://cal.eu/tommi.lev
+Alan,https://cal.eu/alan.deluxe
+Maria,https://cal.eu/maria.lev
