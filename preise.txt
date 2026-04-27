@@ -39,3 +39,4 @@ Extensions entfernen,kostenloses Beratungsgespräch
 Extensions anbringen,kostenloses Beratungsgespräch
 Kinderschnitt,20
 Sandwiches,pro stück 2,5
+Balayage,ab 150
